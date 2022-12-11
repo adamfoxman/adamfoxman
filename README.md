@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adam Lisowski</h1>
-<h3 align="center">A passionate fullstack developer from Poland</h3>
+<h3 align="center">A junior fullstack developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamfoxman&label=Profile%20views&color=0e75b6&style=flat" alt="adamfoxman" /> </p>
 
-- 🔭 I’m currently working on [MusicShare](https://github.com/adamfoxman/MusicShare)
+- 🔭 I’m currently working on [MusicShare](https://github.com/adamfoxman/MusicShare) and [Swearinox](https://github.com/adamfoxman/swearinox-api)
 
-- 🌱 I’m currently learning **Flask, Elasticsearch and Vue.js**
+- 🌱 I’m currently learning **Flask, FastAPI and Vue.js**
 
 - ⚡ **Fun fact:** I'm a vinyl and iPod lover and also radio DXer.
 
